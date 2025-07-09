@@ -41,4 +41,4 @@ Push to the branch (git push origin feature-branch).
 Open a Pull Request.
 
 Contact
-Questions or ideas? Reach me at github.com/Mrpoollord.
+Questions or ideas? Reach me at https://github.com/Mrpoollord.
