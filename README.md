@@ -9,7 +9,7 @@ The turtle module (included with Python’s standard library)
 
 Installation
 
-Clone the repository to your local machine:git clone https://github.com/your-username/turtle-crossing-game.git
+Clone the repository to your local machine:git clone https://github.com/Mrpoollord/turtle-crossing-game.git
 
 
 Navigate to the project folder:cd turtle-crossing-game
